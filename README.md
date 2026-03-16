@@ -11,6 +11,16 @@ for the SharePoint 2026 Hackathon.
 - a curated Copilot Studio upload pack
 - demo prompts, runtime input, build checklist, and publishing notes
 
+## Demo Video
+
+Watch the project walkthrough on YouTube:
+
+[![Watch the demo video](https://img.youtube.com/vi/Y1GuJZLzcGM/hqdefault.jpg)](https://www.youtube.com/watch?v=Y1GuJZLzcGM)
+
+Direct link:
+
+- https://www.youtube.com/watch?v=Y1GuJZLzcGM
+
 ## Who This Is For
 
 This repository is meant for people who want to understand how skill-based AI
