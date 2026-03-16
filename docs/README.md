@@ -3,7 +3,8 @@
 This folder contains the public-facing guidance that explains how to build a
 skill-based communication package like the one used in this repository.
 
-It is the best entry point for understanding the method behind the project.
+It is the best entry point for understanding the method behind the project and
+the thinking behind the skill structure.
 
 ## What Is In Here
 
