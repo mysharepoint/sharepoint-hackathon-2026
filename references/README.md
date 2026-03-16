@@ -3,7 +3,7 @@
 This folder contains the supporting documentation behind the demo package.
 
 It explains the reasoning, scope, and source structure behind the public
-example.
+example package.
 
 ## What Is In Here
 
