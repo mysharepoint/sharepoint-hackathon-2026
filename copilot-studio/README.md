@@ -3,6 +3,9 @@
 This folder contains the operational material needed to build and run the demo
 agent in Microsoft Copilot Studio.
 
+It is the practical handoff layer between the reusable skill files and the
+actual agent configuration.
+
 ## What Is In Here
 
 - `upload-pack/`

@@ -3,6 +3,9 @@
 This folder contains the live-demo material that sits around the actual skill
 package.
 
+It helps turn the skill pack into something that can be shown, rehearsed, and
+explained quickly.
+
 ## What Is In Here
 
 - `demo-prompts.md`

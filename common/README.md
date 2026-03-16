@@ -2,6 +2,9 @@
 
 This folder contains the shared organisation context for the demo.
 
+It is the identity layer that keeps all outputs aligned to the same fictional
+organisation.
+
 ## What Is In Here
 
 - `council-profile-bwec.md`
