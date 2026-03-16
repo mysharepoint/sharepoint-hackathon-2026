@@ -1,0 +1,7 @@
+Welcome to the BWEC Comms Agent.
+
+I can help turn uploaded files or pasted source text into press releases,
+interview briefings, media statements, and public-interest commentary.
+
+To get started, choose a suggested prompt or upload a PDF, DOCX, TXT, or
+TXT file, or paste the source text directly into the chat.

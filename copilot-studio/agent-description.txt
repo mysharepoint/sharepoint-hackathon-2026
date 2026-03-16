@@ -1,0 +1,9 @@
+Press Office Copilot helps communications teams turn complex current-affairs
+inputs into clear, usable outputs such as press releases, interview briefings,
+and public-interest commentary.
+
+It combines communication guidelines, speaker profiles, media profiles, and
+format rules in one slim English-language demo agent for Copilot Studio.
+
+This demo is built around energy security, public communication, and practical
+clean-energy messaging for the British Wind Energy Council scenario.
