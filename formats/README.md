@@ -3,6 +3,9 @@
 This folder contains the three core output formats as internal skill
 definitions.
 
+These files define what each output is supposed to do, not just how it should
+sound.
+
 ## Current Format Skills
 
 - `press-release/`

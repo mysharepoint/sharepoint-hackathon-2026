@@ -3,6 +3,8 @@
 This folder contains the public-facing guidance that explains how to build a
 skill-based communication package like the one used in this repository.
 
+It is the best entry point for understanding the method behind the project.
+
 ## What Is In Here
 
 - `how-to-build-a-skill-pack.md`

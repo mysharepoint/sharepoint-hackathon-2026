@@ -2,6 +2,9 @@
 
 This folder contains the supporting documentation behind the demo package.
 
+It explains the reasoning, scope, and source structure behind the public
+example.
+
 ## What Is In Here
 
 - `knowledge-pack/`
